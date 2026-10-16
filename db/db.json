@@ -1,0 +1,168 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "priya_wanders",
+        "profile_pic": "src/assets/priya.jpg"
+      },
+      "image": "src/assets/firstPost.jpg",
+      "caption": "Top of the world 🏔️ #Trekking",
+      "likes": 245,
+      "comments": [
+        {
+          "user": "rahul_k",
+          "comment": "Incredible view! 😍"
+        },
+        {
+          "user": "neha.travels",
+          "comment": "Which trek is this?"
+        }
+      ],
+      "timestamp": "2025-02-12T09:15:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "chef_arjun",
+        "profile_pic": "src/assets/deva.jpg"
+      },
+      "image": "src/assets/thirdPost.jpg",
+      "caption": "Sunday special 🍝 #Foodie",
+      "likes": 89,
+      "comments": [
+        {
+          "user": "sara_eats",
+          "comment": "Looks delicious! 🤤"
+        },
+        {
+          "user": "dev_patel",
+          "comment": "Recipe please!"
+        }
+      ],
+      "timestamp": "2025-02-13T18:45:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "aisha_clicks",
+        "profile_pic": "src/assets/arjun.jpg"
+      },
+      "image": "src/assets/secondPost.jpg",
+      "caption": "City lights never get old 🌃 #NightPhotography",
+      "likes": 312,
+      "comments": [
+        {
+          "user": "kabir_lens",
+          "comment": "That composition is perfect 📸"
+        },
+        {
+          "user": "meera_21",
+          "comment": "Where was this taken?"
+        }
+      ],
+      "timestamp": "2025-02-14T20:10:00Z"
+    }
+  ],
+  "profile": {
+    "id": 102,
+    "username": "priya_sweety",
+    "profile_pic": "src/assets/priya.jpg"
+  },
+  "suggestion": [
+    {
+      "id": "103",
+      "username": "chef_arjun",
+      "profile_pic": "src/assets/deva.jpg"
+    },
+    {
+      "id": "104",
+      "username": "aisha_clicks",
+      "profile_pic": "src/assets/arjun.jpg"
+    },
+    {
+      "id": "105",
+      "username": "myl",
+      "profile_pic": "src/assets/arjun.jpg"
+    },
+    {
+      "id": "107",
+      "username": "prem",
+      "profile_pic": "src/assets/deva.jpg"
+    },
+    {
+      "id": "106",
+      "username": "kareem",
+      "profile_pic": "src/assets/arjun.jpg"
+    },
+    {
+      "id": "108",
+      "username": "vishnu",
+      "profile_pic": "src/assets/deva.jpg"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "prem_pk",
+        "profile_pic": "src/assets/secondPost.jpg"
+      },
+      "image": "/src/assets/s1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "priya_wanders",
+        "profile_pic": "src/assets/priya.jpg"
+      },
+      "image": "/src/assets/s2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "chef_arjun",
+        "profile_pic": "src/assets/deva.jpg"
+      },
+      "image": "/src/assets/s3.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "aisha_clicks",
+        "profile_pic": "src/assets/arjun.jpg"
+      },
+      "image": "/src/assets/s4.jpg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "106",
+      "username": "meera_clicks",
+      "profile_pic": "src/assets/s2.jpg"
+    },
+    {
+      "id": "XxKn4DpaE34",
+      "username": "myl",
+      "profile_pic": "src/assets/arjun.jpg"
+    },
+    {
+      "id": "njdjowRLBR8",
+      "username": "chef_arjun",
+      "profile_pic": "src/assets/deva.jpg"
+    },
+    {
+      "id": "0tkkDFdlLw4",
+      "username": "prem",
+      "profile_pic": "src/assets/deva.jpg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
